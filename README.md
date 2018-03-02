@@ -1,3 +1,3 @@
-# alex-page dotfiles
+# 🌑 alex-page dotfiles
 
-> 🌑 My configuration files
+> My configuration files
